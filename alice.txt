@@ -1,4 +1,3 @@
 Hi,
 My name is Sreekanth Babu Sreeramoju.
-Iam from Warangal.
-Learning Python Full Stack Development.
+Learning Python Full Stack Development Course.
